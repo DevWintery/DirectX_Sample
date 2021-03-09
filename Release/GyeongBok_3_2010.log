@@ -1,0 +1,58 @@
+﻿  Bullet.cpp
+c:\users\user\desktop\가보\gyeongbok_3\app.h(45): warning C4189: 'hr': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+c:\users\user\desktop\가보\gyeongbok_3\sprite.h(36): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\camera.h(58): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(12): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(13): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(14): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(15): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\progressbar.h(26): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\progressbar.h(51): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Enemy.cpp
+c:\users\user\desktop\가보\gyeongbok_3\app.h(45): warning C4189: 'hr': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+c:\users\user\desktop\가보\gyeongbok_3\sprite.h(36): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\camera.h(58): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(12): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(13): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(14): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(15): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\progressbar.h(26): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\progressbar.h(51): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.h(104): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.h(105): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.h(106): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.h(107): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(233): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(234): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(235): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(236): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(110): warning C4458: 'hp' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\user\desktop\가보\gyeongbok_3\enemy.h(25): note: 'Enemy::hp' 선언을 참조하십시오.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(313): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(314): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(315): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(316): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(417): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(418): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(419): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\enemy.cpp(420): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+c:\users\user\desktop\가보\gyeongbok_3\app.h(45): warning C4189: 'hr': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+c:\users\user\desktop\가보\gyeongbok_3\sprite.h(36): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\camera.h(58): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(12): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(13): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(14): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\math.h(15): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\progressbar.h(26): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\progressbar.h(51): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(233): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(234): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(235): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\가보\gyeongbok_3\player.h(236): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  3610 of 3619 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    323 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GyeongBok_3_2010.vcxproj -> C:\Users\User\Desktop\가보\GyeongBok_3\Release\GyeongBok_3.exe
