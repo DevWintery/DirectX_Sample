@@ -1,0 +1,289 @@
+﻿  DXUT.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\users\user\desktop\gyeongbok\dxut\core\dxut.cpp(696): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\desktop\gyeongbok\dxut\core\dxut.cpp(697): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\desktop\gyeongbok\dxut\core\dxut.cpp(4961): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: 'GetVersionExW' 선언을 참조하십시오.
+  Animation.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  App.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Bullet.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Button.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Camera.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\camera.cpp(54): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Enemy.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\enemy.cpp(190): warning C4458: 'dir' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\user\desktop\gyeongbok\enemy.h(28): note: 'Enemy::dir' 선언을 참조하십시오.
+c:\users\user\desktop\gyeongbok\enemy.cpp(425): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\enemy.cpp(534): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Font.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\font.cpp(21): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\font.cpp(22): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Game.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\game.cpp(40): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\game.cpp(376): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\game.cpp(386): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\game.cpp(395): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\game.cpp(422): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameManager.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Intro.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Item.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Main.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Math.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Obb.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Object.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  ObjectList.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Player.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\player.cpp(44): warning C4456: 'ani' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\user\desktop\gyeongbok\player.cpp(28): note: 'ani' 선언을 참조하십시오.
+c:\users\user\desktop\gyeongbok\player.cpp(380): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\user\desktop\gyeongbok\player.cpp(362): note: 'i' 선언을 참조하십시오.
+  ProgressBar.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\progressbar.cpp(38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\progressbar.cpp(41): warning C4458: 'value' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\user\desktop\gyeongbok\progressbar.h(13): note: 'ProgressBar::value' 선언을 참조하십시오.
+  ResultScene.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Scene.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Singleton.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Sprite.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+c:\users\user\desktop\gyeongbok\sprite.cpp(27): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\sprite.cpp(51): warning C4239: 비표준 확장이 사용됨: 'return': 'RECT'에서 'RECT &'(으)로의 변환입니다.
+  c:\users\user\desktop\gyeongbok\sprite.cpp(51): note: 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  Texture.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  DXUTenum.cpp
+  DXUTmisc.cpp
+c:\users\user\desktop\gyeongbok\dxut\core\dxutmisc.cpp(1263): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: 'GetVersionExA' 선언을 참조하십시오.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+c:\users\user\desktop\gyeongbok\dxut\optional\dxutgui.cpp(6846): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\user\desktop\gyeongbok\dxut\optional\dxutgui.h(109): note: 'CDXUTElement::iTexture' 선언을 참조하십시오.
+c:\users\user\desktop\gyeongbok\dxut\optional\dxutgui.cpp(6860): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\user\desktop\gyeongbok\dxut\optional\dxutgui.h(110): note: 'CDXUTElement::iFont' 선언을 참조하십시오.
+c:\users\user\desktop\gyeongbok\dxut\optional\dxutgui.cpp(6860): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\user\desktop\gyeongbok\dxut\optional\dxutgui.h(111): note: 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  GyeongBok.cpp
+c:\users\user\desktop\gyeongbok\obb.h(95): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(96): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(98): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\obb.h(99): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\object.h(7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\gyeongbok\camera.h(22): warning C4324: 'Camera': 맞춤 지정자 때문에 구조체가 채워졌습니다.
+c:\users\user\desktop\gyeongbok\scene.h(14): warning C4316: 'Camera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  코드를 생성하고 있습니다...
+c:\users\user\desktop\gyeongbok\sprite.cpp(51): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+Animation.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  GyeongBok_2010.vcxproj -> C:\Users\User\Desktop\GyeongBok\Debug\GyeongBok.exe
